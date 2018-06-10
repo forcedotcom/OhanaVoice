@@ -1,0 +1,15 @@
+CreateStory create a story
+CreateStory create a story in theme {Theme}
+CreateStory create a story with rank {Rank}
+CreateStory {Title}
+CreateStory {Rank}
+CreateStory {Theme}
+
+TeamHealth how is my team doing
+TeamHealth how are we doing
+TeamHealth status check
+
+FutureVelocity what is our expected future velocity
+FutureVelocity what does the future look like
+FutureVelocity what our future velocity will be
+FutureVelocity Future

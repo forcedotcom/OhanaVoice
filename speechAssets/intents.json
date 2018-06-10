@@ -1,0 +1,27 @@
+{
+  "intents": [
+    {
+      "intent": "CreateStory",
+      "slots": [
+        {
+          "name": "Theme",
+          "type": "ThemeType"
+        },
+        {
+          "name": "Title",
+          "type": "TitleType"
+        },
+        {
+          "name": "Rank",
+          "type": "AMAZON.NUMBER"
+        }
+      ]
+    },
+    {
+      "intent": "TeamHealth"
+    },
+    {
+      "intent": "FutureVelocity"
+    }
+  ]
+}
