@@ -32,7 +32,7 @@ Add Salesforce Skill (in development)
 
 ### Java 
 * Install Ohana Voice Servlet to Heroku (or other host)
-* Update the [SF_INSTANCE_URL](OhanaVoiceSpeechlet.java#L52)
+* Update the [SF_INSTANCE_URL](java/ohanavoice/src/main/java/ohanavoice/OhanaVoiceSpeechlet.java#L51)
 
 
 ### Salesforce
@@ -42,8 +42,6 @@ Add Salesforce Skill (in development)
 * Install Force.com App
 
 ## Contributors
-
-### ELITE Scrum Team 
 * Anuj Gudivada
 * Archit Jain
 * Paramesh Marina
