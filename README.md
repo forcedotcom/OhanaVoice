@@ -40,6 +40,7 @@ Add Salesforce Skill (in development)
 * Install [Agile Accelerator](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000000ps3jEAA)
 * Create new [Connected App](https://help.salesforce.com/articleView?id=connected_app_create.htm&type=0) in Salesforce Org
 * Install Force.com App
+* Update REST resource class `teamName` property for each resource you will use (ex. [FutureVelocityRestResource.cls](https://github.com/forcedotcom/OhanaVoice/blob/master/ohanavoice/src/classes/FutureVelocityRestResource.cls#L14))
 
 ## Contributors
 * Anuj Gudivada
