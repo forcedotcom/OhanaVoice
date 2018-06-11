@@ -28,7 +28,7 @@ private SpeechletResponse getNextCreateStoryDialog(Session session){
 ## Installation
 
 ### Amazon Echo
-Add Salesforce Skill (in development)
+Create Custom Skill (See AWS Documentation)
 
 ### Java 
 * Install Ohana Voice Servlet to Heroku (or other host)
